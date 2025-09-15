@@ -1,0 +1,62 @@
+[
+  {
+    "item": "Cimento",
+    "preco_referencia": 32.50,
+    "dicas_economia": ["Comprar em grande quantidade", "Negociar desconto à vista"],
+    "tags": ["cimento", "portland", "cp"]
+  },
+  {
+    "item": "Areia",
+    "preco_referencia": 45.00,
+    "dicas_economia": ["Comprar direto da mineradora", "Verificar qualidade"],
+    "tags": ["areia", "média", "fina", "agregado"]
+  },
+  {
+    "item": "Brita",
+    "preco_referencia": 52.00,
+    "dicas_economia": ["Comprar da pedreira", "Negociar frete"],
+    "tags": ["brita", "pedra", "agregado"]
+  },
+  {
+    "item": "Bloco cerâmico",
+    "preco_referencia": 0.58,
+    "dicas_economia": ["Comprar direto da olaria", "Verificar qualidade"],
+    "tags": ["bloco", "tijolo", "cerâmica", "vedação"]
+  },
+  {
+    "item": "Vergalhão",
+    "preco_referencia": 4.50,
+    "dicas_economia": ["Comprar da siderúrgica", "Planejar cortes"],
+    "tags": ["ferro", "vergalhão", "aço", "armação"]
+  },
+  {
+    "item": "Cerâmica",
+    "preco_referencia": 25.80,
+    "dicas_economia": ["Comprar pontas de estoque", "Negociar volume"],
+    "tags": ["cerâmica", "piso", "revestimento", "azulejo"]
+  },
+  {
+    "item": "Tinta",
+    "preco_referencia": 150.00,
+    "dicas_economia": ["Calcular rendimento real", "Comprar em promoção"],
+    "tags": ["tinta", "acrílica", "pintura"]
+  },
+  {
+    "item": "Tubo PVC",
+    "preco_referencia": 18.50,
+    "dicas_economia": ["Comprar kits completos", "Verificar marcas certificadas"],
+    "tags": ["pvc", "tubo", "cano", "hidráulica"]
+  },
+  {
+    "item": "Cabo elétrico",
+    "preco_referencia": 4.20,
+    "dicas_economia": ["Comprar rolos fechados", "Calcular metragem exata"],
+    "tags": ["cabo", "fio", "elétrico", "instalação"]
+  },
+  {
+    "item": "Pedreiro",
+    "preco_referencia": 180.00,
+    "dicas_economia": ["Contratar equipes experientes", "Negociar empreitada"],
+    "tags": ["pedreiro", "mão de obra", "diária"]
+  }
+]
